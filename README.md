@@ -71,10 +71,9 @@ The **DIU Bus Management System** is an innovative solution aimed at addressing 
 
 ## Contact
 
-**Pranto Saha**  
-  - ID: 212-15-4157  
-  - Email: [saha15-4157@diu.edu.bd](saha15-4157@diu.edu.bd)
-  - GitHub: [prantosaha57](https://github.com/prantosaha57/)
+**Irfan Ahmad Alvi**  
+  - Email: iafanahmadalvi19@gmail.com
+
 
 
 ## Future Enhancements
